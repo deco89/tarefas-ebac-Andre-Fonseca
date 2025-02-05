@@ -1,0 +1,11 @@
+INÍCIO
+	1. Abrir os olhos
+	2. Se estiver coberto
+		1. Segurar a coberta
+		2. Tirar a coberta de cima do corpo		
+	3. Se não estiver coberto
+		1. Botar as pernas para fora da cama
+		2. Elevar o tronco 
+		3. Levantar da cama
+	4. Sair do quarto para primeira tarefa após acordar
+FIM
