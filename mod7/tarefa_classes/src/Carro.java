@@ -7,7 +7,7 @@ public class Carro {
     private int valor;
     private boolean motorLigado;
 
-    
+    //Construtor
 
     public Carro(String nome, String fabricante, String cor, int ano, int valor, boolean motorLigado) {
         this.nome = nome;
@@ -17,6 +17,8 @@ public class Carro {
         this.valor = valor;
         this.motorLigado = false;
     }
+
+    // Getters and Setters
     public String getNome() {
         return nome;
     }
@@ -53,6 +55,8 @@ public class Carro {
     public void setMotorLigado(boolean motorLigado) {
         this.motorLigado = motorLigado;
     }
+
+    //Métodos de Ligar Motor, Desligar Motor, Acelerar e Freiar o carro e mostrar suas informações
 
     public void ligarMotor() {
         if(!motorLigado) {
